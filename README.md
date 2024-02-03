@@ -1,6 +1,8 @@
-Problem Statement: Develop a web page to showcase content obtained from an API, sorting it into three sections: Men, Women, and Kids.
+# Problem Statement: 
 
-Approach:
+Develop a web page to showcase content obtained from an API, sorting it into three sections: Men, Women, and Kids.
+
+# Approach:
 
 1. Fetch data from the API and save it in an array.
 2. Classify the data into separate arrays according to categories for a structured presentation.
